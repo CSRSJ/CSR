@@ -1,4 +1,4 @@
-# **CSR Talent Development Repo**
+# **CSR: Industry-Academia Collaboration for Engineering Excellence**
 
 This repository is part of an initiative to bridge the gap between academia and industry by helping motivated students track their daily progress and align their academic learning with real-world applications. The purpose of this repository is to nurture talent by encouraging students to work consistently and develop skills relevant to the evolving market.
 
